@@ -6,6 +6,7 @@ Adding introduction text
 Ther is NO PURPOSE
 ## Deployment
 This is a simple web project
+I'm not really sure ;-0
 ## How To Contribute
 Please fork this repository and then issue Pull Requests for review.
 
