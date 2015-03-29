@@ -6,3 +6,6 @@ Adding introduction text
 ## Deployment
 This is a simple web project
 ## How To Contribute
+
+### Copyright
+This is a copyright notice
