@@ -6,7 +6,8 @@
 	Jason Taylor email@email.com twitter
 
 # THANKS
-
+	
+	All my students
 	<name>
 	
 # TECHNOLOGY COLOPHON
