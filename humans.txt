@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Jason Taylor email@email.com twitter
+
+# THANKS
+
+	<name>
+	
+# TECHNOLOGY COLOPHON
