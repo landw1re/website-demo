@@ -3,6 +3,7 @@ This is a simple web site
 ## Introduction
 Adding introduction text
 ## Purpose
+Ther is NO PURPOSE
 ## Deployment
 This is a simple web project
 ## How To Contribute
