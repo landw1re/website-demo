@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple web site
+This is a simple web site. more changes from feature branch 2
 ## Introduction
 Adding introduction text
 ## Purpose
